@@ -33,7 +33,7 @@
   **Instalar as dependências**
   * npm install expo
 
-  **Rodar o projeto**
+  **Rodar a aplicação**
   * npm run android
 
 # Como utilizar
